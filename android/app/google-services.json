@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848469856580",
+    "project_id": "djani-94ccd",
+    "storage_bucket": "djani-94ccd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848469856580:android:780fd61850f08f0e700711",
+        "android_client_info": {
+          "package_name": "com.example.djani_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8iNVvvBaNfe8efB1WUTQdYO2TWVKhUVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848469856580:android:c7c05015b38c3700700711",
+        "android_client_info": {
+          "package_name": "com.example.djani_gpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8iNVvvBaNfe8efB1WUTQdYO2TWVKhUVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
